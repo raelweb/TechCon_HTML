@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:00.200 --> 00:00:03.000
+A community of tech entrepreneurs tech.
+
+00:00:05.000 --> 00:00:07.000
+TechCon is a really unique event.
+
+00:00:12.400 --> 00:00:14.000
+Amazing, we started by technology.
+
+00:00:16.700 --> 00:00:19.000
+We have companies where we have 15 to 20 million.
+
+00:00:20.900 --> 00:00:22.900
+Very, very excited about it, and.
+
+00:00:24.800 --> 00:00:26.900
+Is people working together.
+
+00:00:27.800 --> 00:00:30.900
+********
+
+00:00:31.500 --> 00:00:32.500
+TechCon.
+
+00:00:34.700 --> 00:00:36.000
+It will focus on the roadmap.
+
+00:00:37.500 --> 00:00:39.900
+Experience in this tech entrepreneurship.
+
+00:00:41.000 --> 00:00:43.700
+I was in the tech world for 30 years.
